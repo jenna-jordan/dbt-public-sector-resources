@@ -4,6 +4,11 @@ A collection of resources around developing dbt projects in the public sector. O
 ## Communities & Communication
 
 - [dbt Slack Community](https://www.getdbt.com/community/join-the-community), [#industry-public-sector channel](https://getdbt.slack.com/archives/C05MNU6QB5L)
+- Coalesce 2023 talk: ["From coast to coast: implementing dbt in the public sector"](https://coalesce.getdbt.com/agenda/from-coast-to-coast-implementing-dbt-in-the-public-sector)
+
+### Featured Blog Posts
+
+- [There's a better way: The case for dbt for progressive data professionals](https://www.brittanybennett.com/post/there-s-a-better-way-the-case-for-dbt-for-progressive-data-professionals) by brittany bennett
 
 ## Public Repos of dbt projects
 
@@ -24,3 +29,4 @@ A collection of resources around developing dbt projects in the public sector. O
 
 - [CalData Infrastructure](https://github.com/cagov/data-infrastructure):
   CalData's data infrastructure (`transform` directory contains dbt project)
+
