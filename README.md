@@ -10,6 +10,8 @@ A collection of resources around developing dbt projects in the public sector. O
 ### Boston (Analytics Team)
 
 - https://github.com/CityOfBoston/cob_analytics_dbt_skeleton_project
+  - dbt project in the `analytics` directory, Civis workflows in the `civis_workflows` directory
+  - note that this repo only contains the structure and supporting scripts, and no real models from the original dbt project
 
 ### California Integrated Travel Project (Cal-ITP)
 
