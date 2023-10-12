@@ -14,3 +14,11 @@ A collection of resources around developing dbt projects in the public sector. O
 ### California Integrated Travel Project (Cal-ITP)
 
 - https://github.com/cal-itp/data-infra/ (`warehouse` directory contains dbt project)
+
+### CalData
+
+- [CalData Infrastructure Template](https://github.com/cagov/caldata-infrastructure-template):
+  Template for creating new dbt projects with docs and CI driven through GitHub actions.
+
+- [CalData Infrastructure](https://github.com/cagov/data-infrastructure):
+  CalData's data infrastructure (`transform` directory contains dbt project)
