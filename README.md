@@ -10,3 +10,7 @@ A collection of resources around developing dbt projects in the public sector. O
 ### Boston (Analytics Team)
 
 - https://github.com/CityOfBoston/cob_analytics_dbt_skeleton_project
+
+### California Integrated Travel Project (Cal-ITP)
+
+- https://github.com/cal-itp/data-infra/ (`warehouse` directory contains dbt project)
