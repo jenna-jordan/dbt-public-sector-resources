@@ -6,7 +6,7 @@ A collection of resources around developing dbt projects in the public sector. O
 - [dbt Slack Community](https://www.getdbt.com/community/join-the-community), [#industry-public-sector channel](https://getdbt.slack.com/archives/C05MNU6QB5L)
 - Coalesce 2023 talk: ["From coast to coast: implementing dbt in the public sector"](https://coalesce.getdbt.com/agenda/from-coast-to-coast-implementing-dbt-in-the-public-sector)
   - slides available [here](coalesce2023_from-coast-to-coast_slides.pdf)
-  - YouTube link coming soon!
+  - recording is on YouTube [here](https://www.youtube.com/watch?v=6aX7tAfMmIM)
 
 ### Featured Blog Posts
 
